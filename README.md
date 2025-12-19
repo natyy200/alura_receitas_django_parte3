@@ -8,4 +8,4 @@ Nessa aula:
 
 - Criamos o app de usuarios, configuramos a urls e rotas, além de registrar o app em nosso projeto;
 
-- Incluímos também os formulários de login, cadastro, logout e dashborad, com suas respectivas funções em `views.py` de usuários.
+- Incluímos também os formulários de login, cadastro, logout e dashboard, com suas respectivas funções em `views.py` de usuários.
